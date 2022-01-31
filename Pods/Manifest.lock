@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - NeedleFoundation (0.17.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - NeedleFoundation
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - NeedleFoundation
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  NeedleFoundation: 36cfaea9ae9eb527a796f5c1df19296c722666b8
+
+PODFILE CHECKSUM: e01233d0b4965fb0bdb2d27e44bdacaed01e10a3
+
+COCOAPODS: 1.11.2
